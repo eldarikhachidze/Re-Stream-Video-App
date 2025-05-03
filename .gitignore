@@ -1,0 +1,20 @@
+# Ignore Python cache and venv
+__pycache__/
+*.py[cod]
+*.log
+*.json
+venv/
+.env
+
+# Ignore OBS log and keys
+stream_keys.json
+stream_log.txt
+
+# Ignore PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Ignore IDE settings
+.idea/
+*.iml
