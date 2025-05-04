@@ -25,3 +25,10 @@
 2025-05-04 17:08:13 - Test mode enabled, OBS will not start.
 2025-05-04 17:08:15 - Streaming started
 2025-05-04 17:08:20 - Streaming stopped
+2025-05-04 17:13:06 - App started
+2025-05-04 17:13:06 - Video devices: []
+2025-05-04 17:13:06 - Audio devices: ['[dshow @ 00000221bfe65640] "Microphone (USB Audio Device)" (audio)']
+2025-05-04 17:13:08 - YouTube stream key written to outputs.json
+2025-05-04 17:13:08 - Facebook stream key written to service.json
+2025-05-04 17:13:08 - OBS configured with camera: CTkComboBox, mic: [dshow @ 00000221bfe65640] "Microphone (USB Audio Device)" (audio)
+2025-05-04 17:13:08 - Streaming started
