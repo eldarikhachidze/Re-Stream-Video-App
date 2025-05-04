@@ -1,20 +1,28 @@
-# Ignore Python cache and venv
+# Python
+*.pyc
 __pycache__/
-*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
 *.log
-*.json
+*.bak
+*.swp
+
+# Virtualenv
 venv/
-.env
+env/
+ENV/
 
-# Ignore OBS log and keys
-stream_keys.json
-stream_log.txt
-
-# Ignore PyInstaller build artifacts
-build/
-dist/
-*.spec
-
-# Ignore IDE settings
+# IDEs
+.vscode/
 .idea/
 *.iml
+
+# OBS specific files
+*.json
+
+# Build folder
+build/
+dist/
+*.egg-info/

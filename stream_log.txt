@@ -1,0 +1,27 @@
+[2025-05-03 18:52:46] App started
+[2025-05-03 18:52:51] YouTube stream key written to outputs.json
+[2025-05-03 18:52:51] Facebook stream key written to service.json
+[2025-05-03 18:52:51] Streaming started
+[2025-05-04 16:56:33] App started
+[2025-05-04 16:56:33] Device load error: [WinError 2] The system cannot find the file specified
+[2025-05-04 16:57:14] App started
+[2025-05-04 16:57:14] Device load error: [WinError 2] The system cannot find the file specified
+[2025-05-04 16:57:28] App started
+[2025-05-04 16:57:28] Device load error: [WinError 2] The system cannot find the file specified
+2025-05-04 17:06:27 - App started
+2025-05-04 17:06:27 - Video devices: []
+2025-05-04 17:06:27 - Audio devices: ['[dshow @ 0000023c7f315640] "Microphone (USB Audio Device)" (audio)']
+2025-05-04 17:07:32 - App started
+2025-05-04 17:07:32 - Video devices: []
+2025-05-04 17:07:32 - Audio devices: ['[dshow @ 00000197223f5640] "Microphone (USB Audio Device)" (audio)']
+2025-05-04 17:07:34 - YouTube stream key written to outputs.json
+2025-05-04 17:07:34 - Facebook stream key written to service.json
+2025-05-04 17:07:34 - OBS configured with camera: CTkComboBox, mic: [dshow @ 00000197223f5640] "Microphone (USB Audio Device)" (audio)
+2025-05-04 17:07:34 - Streaming started
+2025-05-04 17:08:07 - Streaming stopped
+2025-05-04 17:08:13 - YouTube stream key written to outputs.json
+2025-05-04 17:08:13 - Facebook stream key written to service.json
+2025-05-04 17:08:13 - OBS configured with camera: CTkComboBox, mic: [dshow @ 00000197223f5640] "Microphone (USB Audio Device)" (audio)
+2025-05-04 17:08:13 - Test mode enabled, OBS will not start.
+2025-05-04 17:08:15 - Streaming started
+2025-05-04 17:08:20 - Streaming stopped
