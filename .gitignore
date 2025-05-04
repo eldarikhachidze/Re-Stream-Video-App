@@ -26,3 +26,6 @@ ENV/
 build/
 dist/
 *.egg-info/
+
+# Ignore bin folder and its contents
+bin/
